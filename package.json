@@ -1,7 +1,7 @@
 {
   "name": "lts-release-for-github",
-  "version": "1.0.0",
-  "description": "A tool to scrape GitHub releases for specific versions.",
+  "version": "1.0.1",
+  "description": "Una herramienta para extraer versiones específicas de los lanzamientos de GitHub.",
   "main": "dist/index.js",
   "browser": "dist-browser/index.js",
   "author": "Ricardo Vega G",
@@ -11,6 +11,13 @@
     "build-browser": "tsc index.ts --module ES6 --outDir dist-browser",
     "build": "npm run build-node && npm run build-browser"
   },
+  "keywords": [
+    "github",
+    "releases",
+    "lts",
+    "scraper",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rickytodev/lts-release-for-github.git"
