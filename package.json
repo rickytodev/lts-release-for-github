@@ -1,6 +1,6 @@
 {
   "name": "lts-release-for-github",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Una herramienta para extraer versiones específicas de los lanzamientos de GitHub.",
   "main": "dist/index.js",
   "browser": "dist-browser/index.js",
@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "typescript": "5.8.3",
-    "@types/bun": "^1.2.18",
+    "@types/bun": "1.2.18",
     "@types/jsdom": "21.1.7"
   }
 }
