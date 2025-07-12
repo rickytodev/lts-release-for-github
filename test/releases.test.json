@@ -1,0 +1,12 @@
+[
+  [
+    ["coreybutler", "nvm-windows", "1.2.2"],
+    ["microsoft", "vscode", "1.102.0"],
+    ["facebook", "react", "19.1.0"]
+  ],
+  [
+    ["coreybutler", "nvm-windows", "1.0.0"],
+    ["microsoft", "vscode", "1.0.0"],
+    ["facebook", "react", "1.0.0"]
+  ]
+]
